@@ -1,3 +1,4 @@
+# Example Script
 # ----------- All Imports here ------------------
 from time import time
 from BlockChain_Hashing import custom_hash
