@@ -1,5 +1,5 @@
 # Define Static Functions that help Hashing Blockchain Blocks
-
+# Common Functions to be defined here.
 import hashlib
 import json
 
