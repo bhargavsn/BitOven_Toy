@@ -55,4 +55,7 @@ t5 = blockchain.new_transaction("Alice", "Bob", '0.5 BTC')
 t6 = blockchain.new_transaction("Bob", "Mike", '0.5 BTC')
 blockchain.new_block(6789)
 
-print("Genesis block: ", blockchain.chain)
+# Print the Main Chain in the Block
+print("Genesis block: ", blockchain.chain, sep='\n')
+
+
