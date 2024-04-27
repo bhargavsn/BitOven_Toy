@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # Example Script
 # ----------- All Imports here ------------------
 from time import time
